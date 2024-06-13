@@ -1,0 +1,5 @@
+---
+collections:
+- name: opentermsarchive.deployment
+  type: file
+  source: /Users/ndpnt/Workspace/OTA/deployment/opentermsarchive-deployment-1.2.0.tar.gz
