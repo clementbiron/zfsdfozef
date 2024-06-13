@@ -1,0 +1,6 @@
+all:
+  hosts:
+    54.37.5.206:
+      ansible_user: debian
+      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIJkjE1KIbUcoClK+iKLR5ZvmdXMD/eXWghHdenFeJz4c
+      ota_declarations_branch: test-deployment-on-experimentation-server
