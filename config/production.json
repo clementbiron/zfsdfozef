@@ -1,0 +1,6 @@
+{
+  "@opentermsarchive/federated-api": {
+    "port": 3003,
+    "basePath": "/federation-api"
+  }
+}
